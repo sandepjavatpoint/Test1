@@ -6,5 +6,6 @@ public class Sample {
 
 		System.out.println("satya tech");
 		System.out.println("sandeep");
+		System.out.println("sandy");
 	}
 }
